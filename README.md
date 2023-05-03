@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuddH99
 - 👀 I’m interested in ... learning to code
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... Powershell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... juddh1983@gmail.com
 
